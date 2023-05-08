@@ -1,4 +1,11 @@
-### Hi there 👋
+### I like writing performant software and learning from my mistakes.
+
+#### Interested in all things related to:
+- Algorithms
+- AI/ML
+- Data Science
+- Developer Workflow
+
 
 <!--
 **joey-bednar/joey-bednar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### I like writing performant software and learning from my mistakes.
+## Hi there :wave:
 
 #### Interested in all things related to:
 - Algorithms
